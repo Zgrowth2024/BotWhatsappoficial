@@ -1,0 +1,82 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491155746321@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6754D0616F46E6DC03',
+    participant: undefined
+  },
+  messageTimestamp: 1729200799,
+  pushName: 'Marketing💹',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491155746321'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9fbb90a0-7f2c-4d44-943c-1ef19d425224',
+  keyword: 'key_7acb854a-20d3-463d-bf00-468bb1ff5b50',
+  answer: 'Rey, como estas? Aca te saluda LucaBarber💈',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 3000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bc34c77e36e087dca49c2eafd69df3c5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491155746321@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5D781AA3340DFFF2A7',
+    participant: undefined
+  },
+  messageTimestamp: 1729200806,
+  pushName: 'Marketing💹',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menú',
+  from: '5491155746321'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_be8c0200-3251-4553-bdcc-410628c6c1c7',
+  keyword: 'key_adda668a-0ed0-40c4-8532-8b07242a3803',
+  answer: 'Elegi una de estas opciones:\r\n' +
+    '\r\n' +
+    '1- Quiero informacion del curso\r\n' +
+    '2- Enviar el comprobante\r\n' +
+    '3- Tengo otra consulta\r\n' +
+    '\r\n' +
+    '0- Volver al menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e93eba20832166b888933548a688455a'
+}
